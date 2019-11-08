@@ -1,6 +1,7 @@
 {
   "license": "MIT",
   "scripts": {
+    "postinstall": "yarn build",
     "build": "webpack"
   },
   "dependencies": {},
